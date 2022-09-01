@@ -46,4 +46,5 @@
 *{
   font-family: sans-serif;
   font-weight: normal;
+  /* overflow: hidden; */
 }
