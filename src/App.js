@@ -29,6 +29,7 @@ function App() {
           <Work date={"2022 08 "} name={"react-three-fiber course by Paul Henschel"} link={"https://0xca0a.gumroad.com/l/B4N4N4S"} />
           <Work date={"2022 07 "} name={"The Motion"} link={"https://themotion.co.kr/curriculum/view?idx=74"} />
           <Work date={"2022 06 "} name={"Three Journey"} link={"https://threejs-journey.com/#"} />
+          <Work date={"2021 10 "} name={"Zoom Clone Coding"} link={"https://nomadcoders.co/noom"} />
           <Work date={"2021 09 "} name={"Just Javascript"} link={"https://justjavascript.com/"} />
           <Work date={"2019 06 "} name={"CS50's Web Programming with Python and JavaScript"} link={"https://justjavascript.com/"} />
           <Work date={"2019 03 "} name={"CS50's Mobile App Development with React Native"} link={"https://justjavascript.com/"} />
