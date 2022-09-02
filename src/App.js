@@ -26,6 +26,7 @@ function App() {
           <Work date={"2017 04 "} name={"Perfect Storm"} link={"https://www.perfect-storm.net/services/ar-vr-mr"} />
 
           <h4 style={{ "color": "#ddd" }}>EDUCATION</h4>
+          <Work date={"2022 09 "} name={"Typescript Blockchain"} link={"https://nomadcoders.co/typescript-for-beginners"} />
           <Work date={"2022 08 "} name={"react-three-fiber course by Paul Henschel"} link={"https://0xca0a.gumroad.com/l/B4N4N4S"} />
           <Work date={"2022 07 "} name={"The Motion"} link={"https://themotion.co.kr/curriculum/view?idx=74"} />
           <Work date={"2022 06 "} name={"Three Journey"} link={"https://threejs-journey.com/#"} />
